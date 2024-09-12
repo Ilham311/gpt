@@ -1,5 +1,5 @@
 import requests
-import telebot
+import telebot 
 
 TELEGRAM_BOT_TOKEN = "5219568853:AAFvJZ7SmP24wrVfNranLFebbTNQjY7v1gY"
 BOT_USERNAME = "@Soranosbot"
